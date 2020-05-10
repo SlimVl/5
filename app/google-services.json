@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868679535048",
+    "firebase_url": "https://ocher-city-1577716663467.firebaseio.com",
+    "project_id": "ocher-city-1577716663467",
+    "storage_bucket": "ocher-city-1577716663467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868679535048:android:665f6e6c1f382d263118fd",
+        "android_client_info": {
+          "package_name": "com.vlasov.ochercity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868679535048-76nbl9ac614e1gdjc3fnho8lvp700i1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatkT5WPfM7nPveWXsYpmujSPGaV2kfRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868679535048-76nbl9ac614e1gdjc3fnho8lvp700i1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
